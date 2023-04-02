@@ -1,0 +1,9 @@
+Terms of Use
+
+1. This application ("Playlist Transfer App") is developed for personal use only.
+2. The purpose of this application is to transfer a playlist from Deezer to Spotify for the individual user who created the application.
+3. This application is not intended for distribution or commercial purposes.
+4. The user agrees to respect Deezer's and Spotify's terms of service and API usage policies while using this application.
+5. The creator and user of this application accept no liability for any damages or issues arising from the use of this application.
+
+By using this application, you agree to these terms of use.
